@@ -1,5 +1,5 @@
 # VFD20-1303
-Schematic symbol and guide on the usage of an vacuum fluorescent display (VFD)
+Schematic symbol and guide on the usage of a vacuum fluorescent display (VFD)
 
 <img src="./img3.jpg" alt="Alt text" title="IRL example connection">
 
